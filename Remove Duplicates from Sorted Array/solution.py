@@ -8,6 +8,7 @@ class Solution(object):
                 k+=1;
             i+=1;
         return (k);
-a = Solution();
-array = [1, 1, 2];
-print(a.RemoveDupluicates(array));
+
+# a = Solution();
+# array = [1, 1, 2];
+# print(a.RemoveDupluicates(array));
